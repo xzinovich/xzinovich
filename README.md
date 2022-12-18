@@ -1,3 +1,4 @@
+![logo](https://github.com/xzinovich/xzinovich/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm xZin0vich</h1>
 <h3 align="center">I'm passionate about python developement. I do all my scripts in France.</h3>
 
