@@ -1,12 +1,12 @@
 ![logo](https://github.com/xzinovich/xzinovich/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm xZin0vich</h1>
-<h3 align="center">I'm passionate about python developement. I do all my scripts in France.</h3>
+<h3 align="center">I'm passionate about it sciences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xzinovich&label=Profile%20views&color=0e75b6&style=flat" alt="xzinovich" /> </p>
 
 - 🔭 I’m currently working on [Database Searcher](https://github.com/xzinovich/discord-database-searcher)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/xzinovich/](https://github.com/xzinovich/)
 
@@ -16,7 +16,7 @@
 
 - 📄 I'm Certified Devlopper In [https://discord.gg/rtj](https://discord.gg/rtj)
 
-- ⚡ Fun fact **I'm Funny**
+- ⚡ Fun fact **I'm Young**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
