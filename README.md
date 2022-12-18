@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **xZin0vich#0105 on discord**
 
-- 📄 Know about my experiences [Certified Devlopper In https://discord.gg/rtj](Certified Devlopper In https://discord.gg/rtj)
+- 📄 Know about my experiences Certified Devlopper In [https://discord.gg/rtj](https://discord.gg/rtj)
 
 - ⚡ Fun fact **I'm Funny**
 
