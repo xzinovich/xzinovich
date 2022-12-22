@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm xZin0vich</h1>
 <h3 align="center">I'm passionate about it sciences.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xzinovich&label=Profile%20views&color=0e75b6&style=flat" alt="xzinovich" /> </p>
+<p align="left"> <img src="https://tenor.com/view/ghost-man-gif-thirties-cartoon-gif-14289139" alt="xzinovich" /> </p>
 
 - 🔭 I’m currently working on [Database Searcher](https://github.com/xzinovich/discord-database-searcher)
 
