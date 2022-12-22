@@ -1,4 +1,5 @@
-![logo](https://github.com/xzinovich/xzinovich/blob/main/Github%20Banner.png)
+![image](https://user-images.githubusercontent.com/120513116/209030344-d0c130b9-37a5-4479-98c5-93bc10a048b6.png)
+
 <h1 align="center">Hi 👋, I'm xZin0vich</h1>
 <h3 align="center">I'm passionate about it sciences.</h3>
 
