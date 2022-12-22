@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/120513116/209030508-878729e2-4382-4114-9a9c-75dd93126c05.png)
-
 <h1 align="center">Hi 👋, I'm xZin0vich</h1>
 <h3 align="center">I'm passionate about it sciences.</h3>
 
